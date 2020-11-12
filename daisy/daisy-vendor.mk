@@ -1921,7 +1921,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/usr/keylayout/Vendor_054c_Product_05c4.kl:$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/Vendor_054c_Product_05c4.kl \
     vendor/xiaomi/daisy/proprietary/usr/keylayout/Vendor_054c_Product_09cc.kl:$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/Vendor_054c_Product_09cc.kl \
     vendor/xiaomi/daisy/proprietary/usr/keylayout/Vendor_057e_Product_2009.kl:$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/Vendor_057e_Product_2009.kl \
-    vendor/xiaomi/daisy/proprietary/usr/keylayout/Vendor_146b_Product_0d01.kl:$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/Vendor_146b_Product_0d01.kl
+    vendor/xiaomi/daisy/proprietary/usr/keylayout/Vendor_146b_Product_0d01.kl:$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/Vendor_146b_Product_0d01.kl \
+    vendor/xiaomi/daisy/proprietary/etc/sysconfig/pixel_2016_exclusive.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/pixel_2016_exclusive.xml
 
 PRODUCT_PACKAGES += \
     FingerprintExtensionService \
